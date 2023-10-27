@@ -1,1 +1,2 @@
     This line is written in Git
+This is the updated file
